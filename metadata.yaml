@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5554
     wikipedia: http://en.wikipedia.org/wiki/Robert_Boyle
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22914#The-Sceptical-Chymistor-Chymico-Physical-Doubts--amp--Paradoxes-Touching-the-Spagyrist-s-Prin_
 gutenberg_bookshelf: Chemistry
 gutenberg_issued: '2007-10-08'
 gutenberg_type: Text
